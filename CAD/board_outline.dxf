@@ -1,0 +1,520 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$ANGDIR
+  70
+0
+  9
+$CECOLOR
+  62
+256
+  9
+$CELTYPE
+  6
+BYLAYER
+  9
+$EXTMIN
+  10
+0.0
+  20
+0.0
+  9
+$EXTMAX
+  10
+1.7717
+  20
+2.3622
+  9
+$FILLMODE
+  70
+1
+  9
+$MIRRTEXT
+  70
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LAYER
+  70
+17
+  0
+LAYER
+  2
+Drill_Top
+  70
+64
+  62
+7
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+Board_Outline
+  70
+64
+  62
+13
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.9055
+  20
+1.3976
+  40
+0.0157
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.9055
+  20
+1.5945
+  40
+0.0157
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.9055
+  20
+0.7677
+  40
+0.0157
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.9055
+  20
+0.9646
+  40
+0.0157
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.5906
+  20
+2.0669
+  40
+0.0157
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.5906
+  20
+2.2638
+  40
+0.0157
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.5906
+  20
+1.0827
+  40
+0.0157
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.5906
+  20
+1.2795
+  40
+0.0157
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.5906
+  20
+0.0984
+  40
+0.0157
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.5906
+  20
+0.2953
+  40
+0.0157
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+1.1811
+  20
+2.0669
+  40
+0.125
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+1.1811
+  20
+0.2953
+  40
+0.125
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.2165
+  20
+2.1457
+  40
+0.023
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.0866
+  20
+2.2756
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.3465
+  20
+2.2756
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.3465
+  20
+2.0157
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.0866
+  20
+2.0157
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.2165
+  20
+1.1811
+  40
+0.023
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.0866
+  20
+1.311
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.3465
+  20
+1.311
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.3465
+  20
+1.0512
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.0866
+  20
+1.0512
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.2165
+  20
+0.2165
+  40
+0.023
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.0866
+  20
+0.3465
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.3465
+  20
+0.3465
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.3465
+  20
+0.0866
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.0866
+  20
+0.0866
+  40
+0.0415
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+1.6154
+  20
+1.3567
+  40
+0.0177
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+1.6154
+  20
+1.2567
+  40
+0.0177
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+1.6154
+  20
+1.1567
+  40
+0.0177
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+1.6154
+  20
+1.0567
+  40
+0.0177
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+1.6154
+  20
+0.9567
+  40
+0.0177
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.9055
+  20
+1.1311
+  40
+0.0138
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.9055
+  20
+1.1811
+  40
+0.0138
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+0.9055
+  20
+1.2311
+  40
+0.0138
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+1.1848
+  20
+0.9817
+  40
+0.0177
+  0
+CIRCLE
+  8
+Drill_Top
+  10
+1.2848
+  20
+0.9817
+  40
+0.0177
+  0
+POLYLINE
+  8
+Board_Outline
+  6
+CONTINUOUS
+  66
+1
+  70
+0
+  40
+0.0055
+  41
+0.0055
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.0
+  20
+2.3622
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+1.7717
+  20
+2.3622
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+1.7717
+  20
+0.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.0
+  20
+0.0
+  42
+0
+  0
+VERTEX
+  8
+Board_Outline
+  10
+0.0
+  20
+2.3622
+  42
+0
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF
